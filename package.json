@@ -32,5 +32,8 @@
   "engineStrict": true,
   "engines": {
     "node": ">=14.0.0"
+  },
+  "dependencies": {
+    "wam-crypto-middleware": "^1.0.0"
   }
 }
