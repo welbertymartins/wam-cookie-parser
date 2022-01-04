@@ -1,6 +1,6 @@
 {
   "name": "wam-cookie-parser",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is a helper to parser cookies.",
   "main": "cookieParser.js",
   "directories": {
