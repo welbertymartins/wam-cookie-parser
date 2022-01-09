@@ -8,4 +8,4 @@ const cookieParser = (list = []) => {
     return cookies
 }
 
-module.exports = cookieParser;
+module.exports = cookieParser
