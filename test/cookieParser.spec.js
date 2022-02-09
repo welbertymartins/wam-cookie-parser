@@ -7,8 +7,7 @@ const fakeCookieList = [
 ]
 
 describe("Cookie Parser", function() {
-    
-    it("Get Cookies", function () {
+    it("Get Cookies From Unformatted List", function () {
         const cookies = cookieParser(fakeCookieList)
         expect(cookies[0].key).to.equal('fizz')
         expect(cookies[0].value).to.equal('1')
