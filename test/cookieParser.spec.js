@@ -14,5 +14,4 @@ describe("Cookie Parser", function() {
         expect(cookies[1].key).to.equal('buzz')
         expect(cookies[1].value).to.equal('2')
     })
-
 })
