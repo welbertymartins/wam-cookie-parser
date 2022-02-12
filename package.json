@@ -1,6 +1,6 @@
 {
   "name": "wam-cookie-parser",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "This is a helper to parser cookies.",
   "main": "cookieParser.js",
   "directories": {
@@ -25,9 +25,9 @@
   },
   "homepage": "https://github.com/welbertymartins/wam-cookie-parser#readme",
   "devDependencies": {
-    "chai": "4.3.4",
-    "mocha": "9.1.3",
-    "nyc": "15.1.0"
+    "chai": "^4.3.6",
+    "mocha": "^9.2.0",
+    "nyc": "^15.1.0"
   },
   "engineStrict": true,
   "engines": {
